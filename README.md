@@ -17,3 +17,4 @@ to run the code follow the below command -
 ```
 node server.js
 ```
+now you can see code is running on port `3000` with the log message - `Server listening on port 3000`
